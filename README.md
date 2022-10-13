@@ -1,7 +1,7 @@
 ### Hi there 👋  
 I'm Ryan, a Data and Systems Engineering student at the City University of Hong Kong. 
 My interests are Full-Stack Web Development and Data Analytics.
-I'm currently and seeking Winter 2022 internships in software development.  
+I'm currently and seeking Summer 2023 internships in software development.  
 
 ### 📫 Find me here: 
 - [LinkedIn](https://www.linkedin.com/in/ryanjgani/)
